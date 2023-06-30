@@ -82,7 +82,7 @@ h3 {
 }
 .back-orange {
   background-color: #e22d0e;
-  padding-bottom: 60px;
+  padding: 0;
 }
 .back-orange h2 {
   font-family: "open-sars", sans-serif;
@@ -162,4 +162,14 @@ h4 {
 
 hr {
   width: 50%;
+}
+.main {
+  display: inline-block;
+  display: flex;
+}
+.back-round {
+  display: flex;
+}
+.scritte {
+  flex-direction: column;
 }
