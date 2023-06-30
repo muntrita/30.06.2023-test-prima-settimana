@@ -1,0 +1,162 @@
+/* Your styles here */
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2em;
+  line-height: 1.65;
+  color: #393d41;
+}
+#banner {
+  padding-bottom: 20px;
+  background-image: url("../images/banner.jpg");
+  background-position: center center;
+}
+
+.logo {
+  background-color: black;
+  text-align: center;
+  padding: 30px;
+}
+
+#titolo {
+  font-family: "montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1.1;
+  color: #25a2c3;
+  text-align: center;
+  padding-top: 15px;
+  font-size: 40px;
+}
+.intro {
+  font-family: "open sars", sans-serif;
+  line-height: 1.65;
+  font-size: 1.2rem;
+  color: #393d41;
+  text-align: center;
+  padding-top: 15px;
+}
+button {
+  background-color: orangered;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+}
+.button {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.round {
+  display: block;
+  margin-inline: auto;
+  text-align: center;
+}
+.round img {
+  border-radius: 50%;
+}
+
+h2 {
+  font-family: "montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1.65;
+  font-size: 20px;
+  color: #25a2c3;
+  text-align: center;
+  padding-top: 15px;
+}
+h3 {
+  font-family: "open sars", sans-serif;
+  line-height: 1.65;
+  font-size: 1.2rem;
+  color: #393d41;
+  text-align: center;
+  padding-top: 15px;
+}
+.back-orange {
+  background-color: #e22d0e;
+  padding-bottom: 60px;
+}
+.back-orange h2 {
+  font-family: "open-sars", sans-serif;
+  color: white;
+  font-size: x-large;
+  padding-top: 36px;
+}
+.back-orange h3 {
+  font-family: "open-sars", sans-serif;
+  font-style: oblique;
+  color: white;
+  font-size: 20px;
+
+  line-height: 1.5;
+}
+.back-orange h4 {
+  text-align: center;
+  font-family: "open-sars", sans-serif;
+  color: white;
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.box1 {
+  margin: 30px 20px 15px;
+  border: 2px solid #d3d5d6;
+}
+.box11 {
+  display: block;
+  margin-inline: auto;
+}
+.box2 {
+  margin: 30px 20px 15px;
+  border: 2px solid #d3d5d6;
+}
+.box22 {
+  display: block;
+  margin-inline: auto;
+}
+.box3 {
+  margin: 30px 20px 15px;
+  border: 2px solid #d3d5d6;
+}
+.box33 {
+  display: block;
+  margin-inline: auto;
+}
+
+.foot h2 {
+  text-align: center;
+  font-family: "open-sars", sans-serif;
+  color: white;
+  font-weight: 200;
+  font-size: 30px;
+  line-height: 1.5;
+}
+h3 {
+  padding-bottom: 20px;
+}
+
+.foot p,
+h4 {
+  text-align: center;
+  font-family: "open-sars", sans-serif;
+  color: white;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.foot {
+  text-align: center;
+  background-color: #25a2c3;
+}
+
+hr {
+  width: 50%;
+}
